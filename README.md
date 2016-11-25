@@ -1,6 +1,11 @@
 absolute_dates
 ===================
 
+This repo is fork from suer/redmine_absolute_dates.
+I fixed translate error in Redmine English environment.
+
+- - -
+
 [![Code Climate](https://codeclimate.com/github/suer/redmine_absolute_dates.png)](https://codeclimate.com/github/suer/redmine_absolute_dates)
 
 This Plugin support Japanese environment only!
